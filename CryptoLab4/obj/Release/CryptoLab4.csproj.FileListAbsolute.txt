@@ -1,0 +1,7 @@
+C:\Users\PRIDE\source\repos\CryptoLab4\CryptoLab4\bin\Release\CryptoLab4.exe.config
+C:\Users\PRIDE\source\repos\CryptoLab4\CryptoLab4\bin\Release\CryptoLab4.exe
+C:\Users\PRIDE\source\repos\CryptoLab4\CryptoLab4\bin\Release\CryptoLab4.pdb
+C:\Users\PRIDE\source\repos\CryptoLab4\CryptoLab4\obj\Release\CryptoLab4.csprojAssemblyReference.cache
+C:\Users\PRIDE\source\repos\CryptoLab4\CryptoLab4\obj\Release\CryptoLab4.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE\source\repos\CryptoLab4\CryptoLab4\obj\Release\CryptoLab4.exe
+C:\Users\PRIDE\source\repos\CryptoLab4\CryptoLab4\obj\Release\CryptoLab4.pdb
